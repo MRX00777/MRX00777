@@ -1,6 +1,6 @@
 
 >[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=10BB69&background=000000&random=false&width=405&lines=Hello!%2C++my+name+is+Yoqub;I'm++Frontend+developer)](https://git.io/typing-svg)
-## Welcome to my Github profile!
+## :wave: Welcome to my Github profile!
 ## :rocket: My skills
 ![html](./img/html5-smalll.svg)
 ![css](./img/css-small.svg)
