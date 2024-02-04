@@ -1,15 +1,17 @@
-![](./img/frontend-img-origin1.png)
-## :wave: Hi! I'm Sharofov Yoqub
-### Welcome to my Github profile!
-## My skills
+
+>[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=12A773&random=false&width=435&lines=Hello!%2C+My+name+is+Yoqub;I'm+Frontend+developer)](https://git.io/typing-svg)
+## Welcome to my Github profile!
+## :rocket: My skills
 ![html](./img/html5-smalll.svg)
 ![css](./img/css-small.svg)
 ![js](./img/js-small.svg)
 ![vue](./img/vuejs-small.svg)
 
+### Level: Junior web developer
+
 ## :telephone: Contacts
 + [:computer: Website](https://mrx00777.github.io/Project_portfoliyo/index.html)
-+ [Telegram](https://t.me/DarkWolf077)
-+ [Instagram](https://www.instagram.com/mrx__010101?igsh=OGtzdzduenp2OGtt)
++ [:point_right: Telegram](https://t.me/DarkWolf077)
++ [:point_right: Instagram](https://www.instagram.com/mrx__010101?igsh=OGtzdzduenp2OGtt)
 
 
