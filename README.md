@@ -1,16 +1,15 @@
-### Hi there 👋
+![](./img/frontend-img-origin1.png)
+## :wave: Hi! I'm Sharofov Yoqub
+### Welcome to my Github profile!
+## My skills
+![html](./img/html5-smalll.svg)
+![css](./img/css-small.svg)
+![js](./img/js-small.svg)
+![vue](./img/vuejs-small.svg)
 
-<!--
-**MRX00777/MRX00777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## :telephone: Contacts
++ [:computer: Website](https://mrx00777.github.io/Project_portfoliyo/index.html)
++ [Telegram](https://t.me/DarkWolf077)
++ [Instagram](https://www.instagram.com/mrx__010101?igsh=OGtzdzduenp2OGtt)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
