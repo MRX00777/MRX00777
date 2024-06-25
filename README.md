@@ -11,7 +11,7 @@
 
 ## :telephone: Contacts
 + [:computer: Website](https://mrx00777.github.io/Portfolio/)
-+ [:point_right: Telegram](https://t.me/DarkWolf077)
++ [:point_right: Telegram](https://t.me/MRX010101010)
 + [:point_right: Instagram](https://www.instagram.com/mrx__010101?igsh=OGtzdzduenp2OGtt)
 
 
